@@ -56,7 +56,8 @@ Por esto, el análisis de datos históricos de accidentes aéreos es fundamental
 	*Dashboard
 	*Reporte
 # KPIS
-	1. Reducir en 5% la tasa de mortalidad a nivel anual, siendo el número de fallecidos en los accidentes aéreos respecto al total de personas en los vuelos involucrados.
+	1. Reducir en 5% la tasa de mortalidad a nivel anual, 
+		siendo el número de fallecidos en los accidentes aéreos respecto al total de personas en los vuelos involucrados.
 	2.  Ruta con mayor cantidad de muertes.
 	3. Promedio de Fatalidades diarias.
 	4. Cantidad de muertes causada por pérdida de control.
