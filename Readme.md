@@ -34,12 +34,12 @@ Es por eso que la industria de la aviación, las autoridades reguladoras y los i
 Por esto, el análisis de datos históricos de accidentes aéreos es fundamental para mejorar la seguridad de la aviación. La recopilación y el análisis sistemático de los datos de accidentes pueden ayudar a los investigadores a identificar patrones, tendencias y factores contribuyentes que podrían llevar a mejoras en la seguridad, desde ayudar a mejorar la capacitación de los pilotos y el personal de mantenimiento, así como a mejorar el diseño y la fabricación de aviones y equipos de aviación
 
 # Tecnologias utilizadas
-* Python 
-		Pandas
-		Numpy
-		Seaborn
-		Matplotlib
-		Natural Language Toolkit (NLTK)
+* Python
+		* Pandas
+		* Numpy
+		* Seaborn
+		* Matplotlib
+		* Natural Language Toolkit (NLTK)
 * PowerBI
 		PowerQuery
 
